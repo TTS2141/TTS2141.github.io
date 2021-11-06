@@ -36,7 +36,7 @@ HTML (ex_change_text.html)
 ```
 
 JavaScript (ex_change_text.js)
-```javascript
+```js
 // p要素(まどか)の参照を取得してname01に代入
 const name01 = document.getElementById('madoka');
 

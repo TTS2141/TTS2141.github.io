@@ -79,5 +79,5 @@ function draw() {
   }
 }
 ```
-- [ブラウザで表示](../sample/ex_canvas_01.html)
+- [ブラウザで表示](/sample/ex_canvas_01.html)
 - [MDN > canvas](https://developer.mozilla.org/ja/docs/Web/API/Canvas_API/Tutorial)
