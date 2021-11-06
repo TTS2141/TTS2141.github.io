@@ -37,7 +37,7 @@ ex_canvas_01.html
 </html>
 ```
 ex_canvas_01.js
-```javascript
+```js
 function draw() {
    //canvasへの参照を取得
   var canvas = document.getElementById("canvas");
