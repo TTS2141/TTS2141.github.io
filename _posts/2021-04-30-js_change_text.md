@@ -8,7 +8,7 @@ image: africa-1.jpg
 ---
 
 JavaScriptを使ってテキストをクリックしたら内容が変わるようにしてみます。
-[ここ](/sample/ex_change_text.html)からやってみてください。
+[ここ](/sample/js/ex_change_text.html)からやってみてください。
 
 テキストの内容が変わって、色も変わったと思います。
 HTMLの「鹿目まどか」（p要素）を、JavaScriptで赤い「暁美ほむら」に変わるようにしてます。

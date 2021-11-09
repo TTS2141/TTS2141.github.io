@@ -5,7 +5,7 @@ const scene = new THREE.Scene();
 // ライトを作成
 {
   const color = 0xFFFFFF;
-  const intensity = 1;
+  const intensity = 2;
   const light = new THREE.DirectionalLight(color, intensity);
   light.position.set(1, -3, 3);
   scene.add(light);
